@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 -👧 Pronomes: Ela/Dela
 <br>
 -🧟‍♀️ Sou fã de The Walking Dead
+<br>
+-📱 E-mail: emillybananinhasplit@gmail.com
+<br>
+## Ferramentas e Tecnologia
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
